@@ -1,6 +1,4 @@
 # everything-smart-contracts: Nocode smart contract deployer
-Here are the actual smart contracts that you can launch(no code required) at https://everything-smart-contrac-49b3c.web.app/ launch tokens, nfts and lotteries to 3 different evm blockchains! (and more coming).
-
 Built for the 2021 meme token frenzy, everything-smart-contracts is a nocode token deployer. All front, no back, ( all react/javscript code ) 3-clicks to launch your meme token, NFT, or onchain lottery across 3 different blockchains (with more on the way!).
 
 Here's how it works:
